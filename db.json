@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first": "Aishwarya",
+      "last": "M C",
+      "email": "arjun@gmail.com",
+      "role": "Editor",
+      "status": "online",
+      "dept": "Development",
+      "bio": "Full stack developer and creator of AuraVault.",
+      "color": "#c4607a",
+      "score": 98,
+      "joined": "2024-01-15"
+    },
+    {
+      "id": 2,
+      "first": "Priya",
+      "last": "Sharma",
+      "email": "Aishu@example.com",
+      "role": "Admin",
+      "status": "online",
+      "dept": "Design",
+      "bio": "UI/UX designer creating beautiful experiences.",
+      "color": "#c49a4a",
+      "score": 85,
+      "joined": "2024-02-20"
+    },
+    {
+      "id": 3,
+      "first": "Rahul",
+      "last": "Verma",
+      "email": "arpithachavan@example.com",
+      "role": "User",
+      "status": "offline",
+      "dept": "Marketing",
+      "bio": "Digital marketing specialist.",
+      "color": "#6b8c7a",
+      "score": 72,
+      "joined": "2024-03-10"
+    }
+  ],
+  "nextId": 4
+}

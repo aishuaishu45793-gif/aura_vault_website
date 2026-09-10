@@ -1,0 +1,14 @@
+{
+  "name": "aura-vault-website",
+  "version": "1.0.0",
+  "description": "AI-Powered User Management System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
